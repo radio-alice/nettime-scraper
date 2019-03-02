@@ -1,0 +1,14 @@
+date: 10 13:09:10 +0200 (C
+sender: nettime-lat-bounces on Sun, 25 Ap
+body: The results of your email command are provided below. Attached is your
+original message.
+
+No commands were found in this message. To obtain instructions, send a
+message containing just the word "help".
+
+
+- Done.
+
+
+---------
+

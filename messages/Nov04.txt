@@ -1,0 +1,92 @@
+date: 03 09:57:38 +0200 (C
+sender: Kepa Landa on Fri, 16 Ma
+body: 
+Taller: La interfaz objetual como herramienta de  creación
+
+Dirige: Álvaro Rey
+Fechas: 19.05 - 24.05
+Horario: 16.30 a 20.30 h.
+Lugar: MediaLabMadrid. Centro Cultural Conde Duque
+
+¿Qué tiene que ver un teclado con una bicicleta estática?. Este taller
+explora las posibilidades de creación de interfaces objetuales mediante el
+reciclado y transformación de componentes tradicionales, como el teclado o
+el ratón. Estos se adaptarán a objetos de la vida cotidiana dotándoles de
+las funciones de control de un ordenador.
+
+Inscripción: enviar curriculum resumido en 10 líneas y un breve mensaje
+explicando los motivos por los cuales se quiere participar a
+info {AT} medialabmadrid.org .Se efectuará un selección.
+
+-----------------------------------------------
+ 
+
+" La interfaz objetual como herramienta de  creación."
+Alvaro Rey
+
+¿Qué tiene que ver un teclado con una bicicleta estática?. Este taller
+explora las posibilidades de creación de interfaces objetuales mediante el
+reciclado y transformación de componentes tradicionales, como el teclado o
+el ratón. Estos se adaptarán a objetos de la vida cotidiana dotándoles de
+las funciones de control de un ordenador.
+
+Nuestra evolución social y técnica ha provocado la dependencia social de
+complejos sistemas técnicos. La evolución histórica de estos sistemas ha
+sido posible gracias a la implantación en ellos de nuevos sistemas de
+comunicación máquina-máquina, más sencillos y rápidos que los sistemas
+humanos. Esta nueva forma de comunicación entre máquinas ha provocado
+territorios de comunicación independientes entre las máquinas y el hombre.
+El estudio de la interfaz como la frontera que separa estos dos mundos y la
+migración de un mundo a otro será la finalidad de este taller.
+
+Las formas que posibiliten una comunicación más natural entre hombre y
+máquina, sin tener que educarnos en nuevos sistemas para entender a las
+máquinas y que ellas nos entiendan, ocuparán nuestro tiempo. Creemos que la
+reutilización de elementos cotidianos, ya asimilados por el hombre, serán
+los interfaces del mañana, alejándose de complejos mandos a distancia,
+pequeñas pantallas con miles de botones o inmensos manuales de usuario.
+
+Así, el dominio de estas fronteras, la interfaz, posibilita un ámbito
+inmensamente extenso para la creación tanto artística como en el campo del
+diseño.
+
+La base de este taller es generar los conocimientos técnicos necesarios para
+poder crear interfaces, espacios o instalaciones interactivas a partir de
+elementos comunes, sin la necesidad de complejos sistemas de programación y
+electrónicos. Así, el taller tendrá un enfoque práctico en el que se
+producirá un espacio interactivo que reaccione con el espectador, notando su
+presencia y generando elementos multimedia hacia el mismo. Nunca será un
+programa teórico ya que, salvo escasas excepciones, se intentarán explicar
+los temas mediante la práctica.
+
+Asimismo, se explicarán los diferentes sistemas que existen en la actualidad
+para generar este tipo de interfaces y se profundizará especialmente en el
+sistema más sencillo. Se estudiará la utilización de elementos cotidianos
+para generar nuevos sistemas interactivos, como son los sistemas internos
+del ordenador: teclados, ratones, lápices ópticos, micrófonos, altavoces,
+monitores, impresoras, escáneres, etc. y los sistemas externos: sensores
+ultrasonido, infrarrojos, sonido, movimiento, fotosensores, alarmas
+domésticas, LEDs, sistemas simples electrónicos, teléfonos móviles, etc.
+
+Álvaro Rey
+
+
+__________________________________________________________
+Kepa Landa
+Coordinador
+
+MediaLabMadrid
+www.medialabmadrid.org     www.cibervision.org       www.banquete.org
+T: (34) 91 559 85 21  - 91 588 55 94
+Centro Cultural Conde Duque.   C/Conde Duque 11.   Madrid  28015
+
+
+
+_______________________________________________
+Nettime-lat mailing list
+Nettime-lat {AT} nettime.org
+http://amsterdam.nettime.org/cgi-bin/mailman/listinfo/nettime-lat
+
+
+---------
+
